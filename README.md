@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnydreamer&label=Profile%20views&color=0e75b6&style=flat" alt="sunnydreamer" /> </p>
 
-- 🔭 I’m currently working on **Frontend development for multiple projects**
+- 🔭 I’m currently working on **fullstack development for multiple projects**
 
 - 👯 I’m looking to collaborate on **AI, Web3, and mobile development projects**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & React Native**
 
 - ⚡ Fun fact **I am also an illustrator and guitar player**
 
